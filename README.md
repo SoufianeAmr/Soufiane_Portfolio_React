@@ -1,4 +1,4 @@
-# Soufiane's Portfolio – React.js Developer Website
+# My Portfolio – React.js Developer Website
 
 This is my personal developer portfolio built using **React.js**, where I showcase my skills, projects, and contact information.  
 It features smooth animations, Firebase integration, and a clean, responsive design.
